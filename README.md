@@ -4,9 +4,9 @@
 In this lab, I performed hands-on system administration and security testing on a Windows 11 environment. The objective was to demonstrate practical skills in user account management, system updates, basic troubleshooting, and endpoint security using Microsoft Defender. This lab simulates real-world IT Support and Help Desk responsibilities.
 
 ### Lab Environment
-Operating System: Windows 11 Enterprise
-Environment Type: Local machine / Virtual Machine
-Security Tool: Microsoft Defender Antivirus
+* Operating System: Windows 11 Enterprise
+* Environment Type: Virtual Machine
+* Security Tool: Microsoft Defender Antivirus
 
 📸 Screenshot:
 Add a screenshot of the Windows 11 system information page showing OS version and edition.
