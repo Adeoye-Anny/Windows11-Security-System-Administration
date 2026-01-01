@@ -1,4 +1,3 @@
-# Windows 11 Security, Microsoft 365 Support, Zoom Troubleshooting, and AnyDesk Remote Assistance
 # Windows 11 Security & System Administration Hands-On Lab
 ### Project Overview
 In this lab, I performed hands-on system administration and security testing on a Windows 11 environment. The objective was to demonstrate practical skills in user account management, system updates, basic troubleshooting, and endpoint security using Microsoft Defender. This lab simulates real-world IT Support and Help Desk responsibilities.
