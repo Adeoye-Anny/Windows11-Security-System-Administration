@@ -6,9 +6,9 @@ In this lab, I performed hands-on system administration and security testing on 
 * Operating System: Windows 11 Enterprise
 * Environment Type: Virtual Machine
 * Security Tool: Microsoft Defender Antivirus
+    <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0b481001-d7c1-4ab4-b3fd-012fa0a00eb0" />
 
-📸 Screenshot:
-Add a screenshot of the Windows 11 system information page showing OS version and edition.
+
 
 ### User Account Management
 I created and managed local user accounts to simulate standard user and administrator access. This helps enforce least-privilege principles commonly used in enterprise environments.
@@ -18,9 +18,8 @@ I created and managed local user accounts to simulate standard user and administ
 * Created a new standard user account.
 * Modified account properties including password settings.
 * Verified login access by signing in with the new user account.
+    <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/e9deca0e-0737-485e-b708-f52843ae82c1" />
 
-📸 Screenshot:
-Add a screenshot showing the created user account in Local Users and Groups.
 
 ### Windows Update Management
 I checked and applied Windows updates to ensure the system was fully patched. This reduces security vulnerabilities and improves system stability.
@@ -30,9 +29,8 @@ I checked and applied Windows updates to ensure the system was fully patched. Th
 * Checked for available updates.
 * Downloaded and installed pending updates.
 * Restarted the system to complete installation.
+    <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/1c4d1250-5314-403f-b2ae-993c64159ca0" />
 
-📸 Screenshot:
-Add a screenshot of the Windows Update page showing updates successfully installed.
 
 ### System Error Troubleshooting
 I simulated basic troubleshooting scenarios by reviewing system error messages and logs.
@@ -41,9 +39,8 @@ I simulated basic troubleshooting scenarios by reviewing system error messages a
 * Checked Event Viewer for system and application errors.
 * Identified warning and error logs related to system performance.
 * Verified that no critical unresolved issues were present after updates.
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/b9ec0f69-e949-4cdd-972e-1bb6cd56b80d" />
 
-📸 Screenshot:
-Add a screenshot of Event Viewer showing system logs.
 
 ### Microsoft Defender Antivirus Testing
 To validate endpoint protection, I tested Microsoft Defender using the industry-standard EICAR test file, which safely simulates malware detection without causing harm.
@@ -55,16 +52,14 @@ To validate endpoint protection, I tested Microsoft Defender using the industry-
 * Observed Microsoft Defender automatically detect and quarantine the file.
 * Reviewed threat details and protection history.
 
-📸 Screenshot:
-Add a screenshot of Microsoft Defender showing the EICAR threat detection alert.
+
 
 ### Security Outcome
 * Microsoft Defender successfully detected and blocked the simulated threat.
 * Real-time protection and alerting were confirmed to be working correctly.
 * The system remained secure with no manual intervention required.
+    <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/1a92756a-291d-4bd4-b8be-c9feda03d495" />
 
-📸 Screenshot:
-Add a screenshot of Defender Protection History showing the quarantined file.
 
 ### Skills Demonstrated
 * Windows 11 system administration
